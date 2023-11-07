@@ -54,3 +54,13 @@ function countPositivesSumNegatives(input) {
 }
 ```
 ___
+
+## Courses:
+
+- 2023 RS Schools Course «JavaScript/Front-end.» (in progress)
+
+## Languages:
+
+- Russian
+- Belarusian
+- English (B1)
