@@ -1,1 +1,1 @@
-https://spirkinilya.github.io/rsschool-cv/cv
+https://spirkinilya.github.io/rsschool-cv/
